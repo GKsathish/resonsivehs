@@ -10,3 +10,10 @@ padding: 0px !important;
   margin: 0px !important;
   padding: 0px !important;
 }
+/* header */
+.bg-con{
+  background: linear-gradient(to right, #fc692a, #ebbd33d4 )  !important ;
+}
+.bg-side{
+  background: linear-gradient(to right, #363535,#363535 )  !important ;
+}
